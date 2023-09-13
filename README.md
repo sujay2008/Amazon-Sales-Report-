@@ -1,4 +1,4 @@
-# Amazon-Sales-Report-
+# 1) Amazon-Sales-Report-
 
 🚀 Amazon Sales Analysis 📈
 
@@ -42,7 +42,8 @@ During the project, we will cover a range of essential topics, including:
 
 The data analysis reveals that the business has a significant customer base in Maharashtra state, mainly serves retailers, fulfills orders through Amazon, experiences high demand for T-shirts, and sees M-Size as the preferred choice among buyers.
 
-# Diwali_sales_analysis
+
+# 2) Diwali_sales_analysis
 
 Project Objectives:
 1) Data Cleaning: We'll start by cleaning the dataset, handling missing values, dealing with outliers, and ensuring that the data is in a consistent format for analysis.
